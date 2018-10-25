@@ -1,6 +1,6 @@
 '''
 Author: Anitha Kiron Vedantam
-Description: This is a program to check whether the given tree is a Binary Search Tree or not
+Description: This is a program to check whether the given tree is a Binary Search Tree.
 '''
 
 

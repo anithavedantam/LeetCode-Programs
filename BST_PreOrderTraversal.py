@@ -1,6 +1,6 @@
 '''
 Author: Anitha Kiron Vedantam
-Description: This is a program get the Pre-Order Traversal of a Binary Search Tree or not
+Description: This is a program get the Pre-Order Traversal of a Binary Search Tree.
 '''
 
 

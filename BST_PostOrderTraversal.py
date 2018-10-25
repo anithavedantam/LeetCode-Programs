@@ -11,7 +11,7 @@ class node:
         self.left = None
         self.right = None
 
-# Program to check BST
+
 def PostOrderTraversal(root):
         if not root:
             return 0
